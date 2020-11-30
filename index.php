@@ -17,8 +17,8 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <!-- Favicon icon -->
-    <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicon.png">
-    <title><?php echo $title; ?></title>
+    
+
     <!-- Bootstrap Core CSS -->
     <link href="assets/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <!-- morris CSS -->
@@ -60,66 +60,7 @@
     <!-- ============================================================== -->
     <!-- Main wrapper - style you can find in pages.scss -->
     <!-- ============================================================== -->
-    <div id="main-wrapper">
-        <!-- ============================================================== -->
-        <!-- Topbar header - style you can find in pages.scss -->
-        <!-- ============================================================== -->
-
-        <!-- ============================================================== -->
-        <!-- End Topbar header -->
-        <!-- ============================================================== -->
-        <!-- ============================================================== -->
-        <!-- Left Sidebar - style you can find in sidebar.scss  -->
-        <!-- ============================================================== -->
-        <aside class="left-sidebar">
-            <!-- Sidebar scroll-->
-            
-            <!-- End Sidebar scroll-->
-        </aside>
-        <!-- ============================================================== -->
-        <!-- End Left Sidebar - style you can find in sidebar.scss  -->
-        <!-- ============================================================== -->
-        <!-- ============================================================== -->
-        <!-- Page wrapper  -->
-        <!-- ============================================================== -->
-        <div class="page-wrapper">
-            <!-- ============================================================== -->
-            <!-- Bread crumb and right sidebar toggle -->
-            <!-- ============================================================== -->
-
-           
-            <!-- ============================================================== -->
-            <!-- End Bread crumb and right sidebar toggle -->
-            <!-- ============================================================== -->
-            <!-- ============================================================== -->
-            <!-- Container fluid  -->
-            <!-- ============================================================== -->
-            <div class="container-fluid">
-                
-               
-               
-         
-          
-                
-
-                 
-                 
-                   
-           
-                    <!-- <div class="col-lg-3 col-lg-5">
-                        <div class="card">
-                            <div class="card-body">
-                                <h4 class="card-title"><i class="mdi mdi-chart-areaspline m-r-5 color-primary"></i>Reporting &amp; Stats</h4>
-                                <h6 class="card-subtitle">Reporting activities using reporting tools.</h6>
-                                <div class="button-group">
-                                    <a href="" class="btn waves-effect waves-light btn-lg btn-primary">Statistics</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div> -->
-
-                </div>
-                <div class="row m-t-0">
+    <div class="row m-t-0">
                     <div class="col-md-12">
                 
                         <h3>map</h3> 
@@ -131,22 +72,6 @@
 
                     </div>
                 </div>
-               
-            </div>
-            <!-- ============================================================== -->
-            <!-- End Container fluid  -->
-            <!-- ============================================================== -->
-            <!-- ============================================================== -->
-            <!-- footer -->
-            <!-- ============================================================== -->
-            <!-- ============================================================== -->
-            <!-- End footer -->
-            <!-- ============================================================== -->
-        </div>
-        <!-- ============================================================== -->
-        <!-- End Page wrapper  -->
-        <!-- ============================================================== -->
-    </div>
     <!-- ============================================================== -->
     <!-- End Wrapper -->
     <!-- ============================================================== -->
@@ -158,15 +83,7 @@
     <script src="assets/plugins/bootstrap/js/popper.min.js"></script>
     <script src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>
     <!-- slimscrollbar scrollbar JavaScript -->
-    <script src="js/jquery.slimscroll.js"></script>
-    <!--Wave Effects -->
-    <script src="js/waves.js"></script>
-    <!--Menu sidebar -->
-    <script src="js/sidebarmenu.js"></script>
-    <!--stickey kit -->
-    <script src="assets/plugins/sticky-kit-master/dist/sticky-kit.min.js"></script>
-    <!--Custom JavaScript -->
-    <script src="js/custom.min.js"></script>
+
     <!-- ============================================================== -->
     <!-- This page plugins -->
     <!-- ============================================================== -->
@@ -176,7 +93,7 @@
     <script src="assets/plugins/raphael/raphael-min.js"></script>
     <script src="assets/plugins/morrisjs/morris.min.js"></script>
     <!-- Chart JS -->
-    <script src="js/dashboard1.js"></script>
+    
     <!-- ============================================================== -->
     <!-- Style switcher -->
     <!-- ============================================================== -->
@@ -192,7 +109,7 @@
     <!--Custom JavaScript -->
     <!-- <script src="js/custom.min.js"></script> -->
     <script src="assets/plugins/toast-master/js/jquery.toast.js"></script>
-    <script src="js/toastr.js"></script>
+   
     <!-- This is data table -->
     <script src="assets/plugins/datatables/jquery.dataTables.min.js"></script>
     <script>
